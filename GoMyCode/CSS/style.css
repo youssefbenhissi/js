@@ -1,0 +1,11 @@
+.bold {
+    font-weight: 900;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.soul {
+    border-bottom: thick solid #000000
+}
